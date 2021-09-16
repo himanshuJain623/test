@@ -1,3 +1,18 @@
-<Title>
-    Heading
-</Title>
+<?xml version="1.0" encoding="UTF-8"?>
+<ReleaseNote>
+    <Title>
+        Version 3.62 Release Notes
+    </Title>
+    <ReleaseDate>
+        July 27, 2021
+    </ReleaseDate>
+    <KeyPoints>
+        <Point>Bug fixes and enhancements</Point>
+        <Point>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </Point>
+        <Point>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </Point>
+        <Point>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </Point>
+    </KeyPoints>
+    <ReleaseNoteURL>
+        https://support.bravadohealth.com/hc/en-us/articles/360052496074-About-Treat-3-Updates
+    </ReleaseNoteURL>
+</ReleaseNote>
